@@ -13,7 +13,7 @@ import Footer from "/components/Footer/Footer.js";
 import GridContainer from "/components/Grid/GridContainer.js";
 import GridItem from "/components/Grid/GridItem.js";
 import Button from "/components/CustomButtons/Button.js";
-import Parallax from "/components/Parallax/Parallax.js";
+import Parallax from "/components/Parallax/Parallax.js"; 
 // sections for this page
 import SectionBasics from "/pages-sections/Components-Sections/SectionBasics.js";
 import SectionNavbars from "/pages-sections/Components-Sections/SectionNavbars.js";
